@@ -137,6 +137,10 @@ Word Generators / Other Tools
   Simple tool that takes source words and generates random mixes to
   quickly visualize potential combinations.
 
+- [NameRobot](https://www.namerobot.com/)
+
+  Varied name generators for different name types, like fantasy names, compound names, or descriptive names. Includes a set of tool for name checking.
+  
 - [Panabee](http://www.panabee.com/)
 
   A simple way to search for domain names, app names, and company
