@@ -161,6 +161,10 @@ Word Generators / Other Tools
 - [Universal Text Combination Generator](http://textmechanic.com/text-tools/combination-permutation-tools/permutation-generator/)
   
   Useful for seeing how words might fit together.
+  
+ - [NameRobot](http://www.namerobot.com/)
+  
+  Collection of business name generators and tools for checking name ideas.
 
 
 Inspiration (Glossaries, Technical Terms)
